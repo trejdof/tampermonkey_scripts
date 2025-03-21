@@ -7,7 +7,7 @@ This is my personal collection of **TamperMonkey** scripts that I use to tweak c
 ## Scripts  
 
 ### Discord Tab Title Cleaner  
-**File:** `discord-tab-title-cleaner.user.js`  
+**File:** `discord_remove_username_tab_title.js`  
 **Site:** [Discord](https://discord.com/)  
 
 #### What it does:
